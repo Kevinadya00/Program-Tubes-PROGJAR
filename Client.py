@@ -1,5 +1,3 @@
-# Program-Tubes-PROGJAR
-
 import socket
 import threading
 import os
